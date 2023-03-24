@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstAppStudyKotlin</string>
+    <string name="ilustration">Ilustration</string>
+    <string name="get_started">button_welcome</string>
+    <string name="button_welcome">Get Started</string>
+    <string name="login">Login</string>
+    <string name="please_sign_in_to_continue">Please sign in to continue</string>
+    <string name="create_account">Create Account</string>
+</resources>
